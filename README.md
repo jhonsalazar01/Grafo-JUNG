@@ -30,3 +30,16 @@ Este repositorio alberga un sistema de cálculo de rutas óptimas y alternativas
 - **Editor:** IntelliJ IDEA 2023.1.2 (Ultimate Edition)
 - **JDK:** Temurin 20.0.1
 - **Sistema Operativo:** Windows 11 22H2
+
+
+
+#### Contacto
+UNIVERSIDAD PEDAGÓGICA Y TECNOLÓGICA DE COLOMBIA
+INGENIERÍA DE SISTEMAS Y COMPUTACIÓN
+PROGRAMACIÓN III
+SOGAMOSO, COLOMBIA
+2023
+
+- Mesa Benitez Sergio
+- Salazar Romero Jhon Fredy https://github.com/jhonsalazar01
+
