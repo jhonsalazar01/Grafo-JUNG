@@ -6,6 +6,9 @@ Este repositorio alberga un sistema de cálculo de rutas óptimas y alternativas
 ## CAPTURAS DE PANTALLA
 ![Página de Inicio](https://github.com/jhonsalazar01/Grafo-JUNG/blob/main/Graf/Screen/IMG_01.png)
 * Descripción: Página de inicio que muestra las opciones de cálculo de rutas.*
+* <img src="[/ruta/a/la/imagen1.png](https://github.com/jhonsalazar01/Grafo-JUNG/blob/main/Graf/Screen/IMG_01.png)" alt="Página de Inicio" width="300"/>
+<br>
+*Descripción: Página de inicio que muestra las opciones de cálculo de rutas.*
 
 
 ## :hammer: Herrameintas Usadas
