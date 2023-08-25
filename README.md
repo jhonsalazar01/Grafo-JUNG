@@ -5,7 +5,7 @@ Este repositorio alberga un sistema de cálculo de rutas óptimas y alternativas
 
 ## CAPTURAS DE PANTALLA
 ![Página de Inicio](https://github.com/jhonsalazar01/Grafo-JUNG/blob/main/Graf/Screen/IMG_01.png)
-* Descripción:* Página de inicio que muestra las opciones de cálculo de rutas.*
+* Descripción: Página de inicio que muestra las opciones de cálculo de rutas.
 
 
 
