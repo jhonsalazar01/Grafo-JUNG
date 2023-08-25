@@ -1,3 +1,9 @@
+<style>
+    body {
+        text-align: justify;
+    }
+</style>
+
 # Grafo-JUNG
 Uso de la librería JUNG para la gestión de grafos.
 
