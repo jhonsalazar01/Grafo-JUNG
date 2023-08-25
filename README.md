@@ -33,11 +33,11 @@ Este repositorio alberga un sistema de cálculo de rutas óptimas y alternativas
 
 
 
-#### Contacto
-UNIVERSIDAD PEDAGÓGICA Y TECNOLÓGICA DE COLOMBIA
-INGENIERÍA DE SISTEMAS Y COMPUTACIÓN
-PROGRAMACIÓN III
-SOGAMOSO, COLOMBIA
+### :telephone: Contacto :telephone:
+UNIVERSIDAD PEDAGÓGICA Y TECNOLÓGICA DE COLOMBIA.
+INGENIERÍA DE SISTEMAS Y COMPUTACIÓN.
+PROGRAMACIÓN III.
+SOGAMOSO, COLOMBIA.
 2023
 
 - Mesa Benitez Sergio
