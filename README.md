@@ -40,6 +40,5 @@ PROGRAMACIÓN III.
 SOGAMOSO, COLOMBIA.
 2023
 
-- Mesa Benitez Sergio
 - Salazar Romero Jhon Fredy https://github.com/jhonsalazar01
 
